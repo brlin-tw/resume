@@ -1,0 +1,8 @@
+# Ignore Markdown export formats
+*.html
+*.pdf
+*.odt
+
+# Ignore Unix hidden files, however don't ignore .gitignore itself
+.*
+!.gitignore
