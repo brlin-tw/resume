@@ -1,4 +1,4 @@
-# 林博仁的履歷表<br />Buo-Ren Lin's Résumé
+# 林博仁的履歷表<br />Buo-ren Lin's Résumé
 本履歷表的最新版本位於下列網址，並且在不冒名使用的前提以[Creative Commons BY 4.0 授權條款](https://creativecommons.org/licenses/by/4.0/)釋出供大眾自由使用  
 [https://github.com/Lin-Buo-Ren/resume](https://github.com/Lin-Buo-Ren/resume)
 
