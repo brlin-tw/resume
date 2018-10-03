@@ -8,10 +8,6 @@
 	<tfoot></tfoot>
 	<tbody>
 		<tr>
-			<th>電子郵件地址<br>E-mail Address</th>
-			<td><a href='mailto:Buo.Ren.Lin@gmail.com' target='_self'>Buo.Ren.Lin@gmail.com</a></td>
-		</tr>
-		<tr>
 			<th>教育程度</th>
 			<td>國立台灣海洋大學資訊工程學系（就學中）</td>
 		</tr>
