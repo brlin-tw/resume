@@ -22,12 +22,15 @@
 ### 程式語言<br>Programming Languages
 此清單僅為本人於過去曾經接觸過的程式語言，**並非本人精通之語言**，敬請留意。依使用程度排序
 
-1. C
 1. GNU Bash
-1. C++
-1. Java
-1. Javascript
-1. Python
+1. C
+1. ~~C++~~
+1. ~~Java~~
+1. ~~Javascript~~
+1. ~~Python~~
+1. ~~Ruby~~
+
+有刪除線的程式語言不擔保任何短期內營利能力。
 
 ### 標記語言<br>Markup Languages
 * HTML（主要為第4版）
