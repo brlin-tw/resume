@@ -61,7 +61,7 @@
 本人的大多數個人／參與之第三方專案皆放置於 [GitHub](http://github.com) 網站上，敬請參考  
 [http://github.com/Lin-Buo-Ren](http://github.com/Lin-Buo-Ren)
 
-## 未來期望<br />Future anticipations
+## 未來期望<br />Future Anticipations
 本人希望未來能夠在下列軟體開發領域中學會更多的技能：
 
 * DevOps(including but not limited to CI/CD and any kind of automation technologies)
