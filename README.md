@@ -64,8 +64,9 @@
 ## 未來期望<br />Future anticipations
 本人希望未來能夠在下列軟體開發領域中學會更多的技能：
 
-* New web technologies(HTML5/CSS3/RWD...)
-* Cross-platform application design based on Qt/QML, etc.
+* DevOps(including but not limited to CI/CD and any kind of automation technologies)
 * Embedded system development
-* Linux kernel development
+* Linux kernel development(including but not limited to driver development)
+* Cross-platform application design based on Qt/QML, etc.
+* New web technologies(HTML5/CSS3/RWD...)
 * Any technologies based on free(as in freedom) software
