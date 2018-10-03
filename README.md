@@ -19,7 +19,7 @@
 </table>
 
 ## 經驗概敘<br>Experience Summary
-### 程式語言<br>Programming Language
+### 程式語言<br>Programming Languages
 此清單僅為本人於過去曾經接觸過的程式語言，**並非本人精通之語言**，敬請留意。依使用程度排序
 
 1. C
@@ -29,11 +29,11 @@
 1. Javascript
 1. Python
 
-### 標記語言<br>Markup Language
+### 標記語言<br>Markup Languages
 * HTML（主要為第4版）
 * Markdown
 
-### 硬體描述語言<br>HDL
+### 硬體描述語言<br>HDLs
 * Verilog
 
 ### 其他經歷<br />Other Experiences
