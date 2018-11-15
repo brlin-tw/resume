@@ -37,6 +37,7 @@ The following are the fields that I have interest with, and expect to get more a
 * Embedded system development
 * Linux kernel development(including but not limited to, driver development)
 * Any technologies based on free(as in freedom) software
+
 ---
 The latest version of the résumé is located at the following address:  
 <https://github.com/Lin-Buo-Ren/resume>  
