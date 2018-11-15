@@ -43,6 +43,4 @@ The latest version of the résumé is located at the following address:
 <https://github.com/Lin-Buo-Ren/resume>  
 and is licensed under the [Creative Commons Attribution-ShareAlike International Public License](https://creativecommons.org/licenses/by-sa/4.0), version 4.0 or any recent version of your preference with an exception of not impersonating anyone.
 
-Refer the [issue tracker][resume-issue-tracker] if you have any problems regarding the content or the usage of this résumé.
-
-[resume-issue-tracker]: https://github.com/Lin-Buo-Ren/resume/issues
+Refer the [issue tracker](https://github.com/Lin-Buo-Ren/resume/issues) if you have any problems regarding the content or the usage of this résumé.
