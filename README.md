@@ -31,7 +31,7 @@ Most of my other works are hosted on GitHub:
 <https://github.com/Lin-Buo-Ren?tab=repositories&type=source>
 
 ## Interests
-The following are the fields that I have interest with, and expect to get more acquainted in the future:
+The following are the fields that I have interest with, and expecting to be more acquainted in the future:
 
 * DevOps(including but not limited to CI/CD and any kind of automation technologies)
 * Embedded system development
