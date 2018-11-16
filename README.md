@@ -36,7 +36,8 @@ The following are the fields that I have interest with, and expecting to be more
 * DevOps(including but not limited to CI/CD and any kind of automation technologies)
 * Embedded system development
 * Linux kernel development(including but not limited to, driver development)
-* Any technologies based on free(as in freedom) software
+
+and any technologies that are based on free(as in freedom) software.
 
 ---
 The latest version of the résumé is located at the following address:  
