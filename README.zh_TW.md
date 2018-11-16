@@ -1,4 +1,6 @@
 # 林博仁的履歷<br />Buo-ren Lin's Résumé
+[English](https://lin-buo-ren.github.io/resume) 中文（台灣）
+
 ## 基本資料
 * 國立台灣海洋大學資訊工程學系肄業
 * 現居台灣台中（可移居工作地）

@@ -1,4 +1,6 @@
 # Buo-ren Lin's Résumé
+English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.html)
+
 ## Basic Information
 * Studied at the Computer Science and Engineering department of NTOU
 * Currently lives in Taichung, Taiwan (relocation is possible)
