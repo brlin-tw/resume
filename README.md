@@ -6,10 +6,10 @@ English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.h
 * Currently lives in Taichung, Taiwan (relocation is possible)
 
 ## Experience Summary
-* Has a intermediate level of understanding of the scripting language of the GNU Bourne Again SHell(Bash)
-* Has a intermediate level of understanding of the C programming language
+* Has an intermediate level of understanding of the scripting language of the GNU Bourne Again SHell(Bash)
+* Has an intermediate level of understanding of the C programming language
 * Has a basic level of understanding of object-oriented programming paradigm
-* Familiar with the GNU+Linux operating system, including but not limited to daily usage, system administration, software development and command-line interface operations
+* Familiar with the GNU+Linux operating system, including but not limited to daily usage, system administration, software development, and command-line interface operations
 * Familiar with the Git source control management, including but not limited to the following operations:
     * `git add --patch`
     * `git rebase --interactive _base_`
@@ -20,7 +20,7 @@ English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.h
 * Has experience of continuous integration(CI) for automated code verification and deployment
 
 ## Personal Works
-I'm currently actively contributing the following projects:
+I'm currently actively contributing to the following projects:
 
 * Git Cola: The highly caffeinated Git GUI  
   <https://github.com/git-cola/git-cola/commits?author=Lin-Buo-Ren>
