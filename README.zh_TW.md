@@ -43,6 +43,6 @@
 
 ---
 本履歷的最新版本位於下列網址：  
-<https://github.com/Lin-Buo-Ren/resume>  
+<https://lin-buo-ren.github.io/resume>  
 並且在不冒名使用的前提下以[Creative Commons 姓名標示 - 相同方式分享公眾授權條款](https://creativecommons.org/licenses/by/4.0/)第 4.0 版或其任意更近期版本釋出供大眾自由使用。
 

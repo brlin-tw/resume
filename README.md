@@ -43,7 +43,7 @@ and any technologies that are based on free(as in freedom) software.
 
 ---
 The latest version of this résumé is located at the following address:  
-<https://github.com/Lin-Buo-Ren/resume>  
+<https://lin-buo-ren.github.io/resume>  
 and is licensed under the [Creative Commons Attribution-ShareAlike International Public License](https://creativecommons.org/licenses/by-sa/4.0), version 4.0 or any recent version of your preference with an exception of not impersonating anyone.
 
 Refer the [issue tracker](https://github.com/Lin-Buo-Ren/resume/issues) if you have any problems regarding the content or the usage of this résumé.
