@@ -15,7 +15,7 @@
 * Familiar with F.O.S.S. project's development process and debugging procedures, including but not limited to triaging, stack trace generation, and bisection
 * Familiar with documentation in manpage and Texinfo formats
 * Familiar with snap packaging, [snaps are universal Linux packages](https://snapcraft.io)
-* Has experience of continuous integration(CI) for  automated code verification and deployment
+* Has experience of continuous integration(CI) for automated code verification and deployment
 
 ## Personal Works
 I'm currently actively contributing the following projects:
