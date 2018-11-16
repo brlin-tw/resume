@@ -22,11 +22,11 @@
 ## 個人作品
 本人目前參與下列專案的貢獻：
 
-* Git Cola: The highly caffeinated Git GUI  
+* [Git Cola](http://git-cola.github.io): The highly caffeinated Git GUI  
   <https://github.com/git-cola/git-cola/commits?author=Lin-Buo-Ren>
-* WoeUSB: A tool that enables you to create your own windows installer USB key from an existing installation image  
+* [WoeUSB](https://github.com/slacka/WoeUSB): A tool that enables you to create your own windows installer USB key from an existing installation image  
   <https://github.com/slacka/WoeUSB/commits?author=Lin-Buo-Ren>
-* The Snapcrafters: A group of community contributors working to get snaps published by upstream projects  
+* [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
 本人的大多數其他作品皆託管於 [GitHub](http://github.com)：  
