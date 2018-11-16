@@ -6,3 +6,4 @@
 # Ignore Unix hidden files, however don't ignore .gitignore itself
 .*
 !.gitignore
+/_site/
