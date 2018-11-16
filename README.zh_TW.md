@@ -1,4 +1,4 @@
-# 林博仁的履歷<br />Buo-ren Lin's Résumé
+# 林博仁的履歷
 [English](https://lin-buo-ren.github.io/resume) 中文（台灣）
 
 ## 基本資料
