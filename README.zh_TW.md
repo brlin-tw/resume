@@ -22,7 +22,7 @@
 * 具備軟體在地化(L10N)與基於 GNU Gettext 程式庫的軟體國際化(I18N)經驗
 
 ## 個人作品
-本人目前參與下列專案的貢獻：
+本人目前積極參與下列專案的貢獻：
 
 * [Git Cola](http://git-cola.github.io): The highly caffeinated Git GUI  
   <https://github.com/git-cola/git-cola/commits?author=Lin-Buo-Ren>
