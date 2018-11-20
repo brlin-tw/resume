@@ -14,7 +14,7 @@ English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.h
     * `git add --patch`
     * `git rebase --interactive _base_`
     * `git bisect [start|bad|good|...]`
-* Familiar with F.O.S.S. project's development process and debugging procedures, including but not limited to triaging, stack trace generation, and bisection
+* Familiar with F.O.S.S. projects' development process and debugging procedures, including but not limited to triaging, stack trace generation, and bisection
 * Familiar with documentation in manpage and Texinfo formats
 * Familiar with snap packaging, [snaps are universal Linux packages](https://snapcraft.io)
 * Has experience of continuous integration(CI) for automated code verification and deployment
