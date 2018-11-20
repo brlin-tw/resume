@@ -18,6 +18,8 @@ English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.h
 * Familiar with documentation in manpage and Texinfo formats
 * Familiar with snap packaging, [snaps are universal Linux packages](https://snapcraft.io)
 * Has experience of continuous integration(CI) for automated code verification and deployment
+* Has experience in using container technologies with LXD(major) and Docker(minor) in software development and testing
+* Has experience in software localization(L10N) and GNU Gettext-based software internationalization(I18N)
 
 ## Personal Works
 I'm currently actively contributing to the following projects:
