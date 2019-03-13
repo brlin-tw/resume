@@ -31,8 +31,8 @@ I'm currently actively contributing to the following projects:
 * [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
-I've been maintaining several snap packages based on personal needs and interests:
-https://lin-buo-ren.github.io/my-snaps
+I've been maintaining several snap packages based on personal needs and interests:  
+<https://lin-buo-ren.github.io/my-snaps>
 
 Most of my other works are hosted on GitHub:  
 <https://github.com/Lin-Buo-Ren?tab=repositories&type=source>

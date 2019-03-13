@@ -31,8 +31,8 @@
 * [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
-此外我目前基於個人需求與興趣有維護數個Snap軟體：
-https://lin-buo-ren.github.io/my-snaps
+此外我目前基於個人需求與興趣有維護數個Snap軟體：  
+<https://lin-buo-ren.github.io/my-snaps>
 
 本人的大多數其他作品皆託管於 [GitHub](http://github.com)：  
 <https://github.com/Lin-Buo-Ren?tab=repositories&type=source>
