@@ -15,6 +15,7 @@ English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.h
 * Familiar with documentation in manpage and Texinfo formats
 * Familiar with snap packaging, [snaps are universal Linux packages](https://snapcraft.io)
 * Has experience of continuous integration(CI) for automated code verification and deployment
+* Has experience with GNU Autotools and CMake software build systems, including but not limited to customizing build configuration
 * Has experience in using container technologies with LXD(major) and Docker(minor) in software development and testing
 * Has an intermediate level of understanding of the scripting language of the GNU Bourne Again SHell(Bash)
 * Has an intermediate level of understanding of the C programming language
