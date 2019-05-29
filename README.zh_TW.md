@@ -6,9 +6,6 @@
 * 現居台灣台中（可移居工作地）
 
 ## 經驗概敘
-* 具備 GNU Bourne Again SHell(Bash) 腳本語言程式的設計能力
-* 熟悉 C 程式語言
-* 對物件導向程式設計有基礎的概念
 * 熟悉 GNU+Linux 作業系統包含但不限於日常使用、系統管理、軟體開發以及命令列界面程式的操作
 * 熟悉使用 Git 版本控制系統，包含但不限於以下操作：
     * `git add --patch`
@@ -19,6 +16,9 @@
 * 熟悉 Snap 軟體打包，[Snap 為跨 GNU+Linux 系統的軟體散佈解決方案](https://snapcraft.io)
 * 具備 continuous integration(CI) 程式碼自動驗證與佈署的經驗
 * 具備應用 LXD（主要）與 Docker（次要）之容器化技術於軟體開發與測試的經驗
+* 具備 GNU Bourne Again SHell(Bash) 腳本語言程式的設計能力
+* 熟悉 C 程式語言
+* 對物件導向程式設計有基礎的概念
 * 具備軟體在地化(L10N)與基於 GNU Gettext 程式庫的軟體國際化(I18N)經驗
 
 ## 個人作品
