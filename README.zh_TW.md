@@ -1,11 +1,14 @@
 # 林博仁的履歷
+
 [English](https://brlin.me/resume) 中文（台灣）
 
 ## 基本資料
+
 * 國立台灣海洋大學資訊工程學系肄業
 * 現居台灣台中（可移居工作地）
 
 ## 經驗概敘
+
 * 熟悉 GNU+Linux 作業系統包含但不限於日常使用、系統管理、軟體開發以及命令列界面程式的操作
 * 熟悉使用 Git 版本控制系統，包含但不限於以下操作：
     * `git add --patch`
@@ -23,6 +26,7 @@
 * 具備軟體在地化(L10N)與基於 GNU Gettext 程式庫的軟體國際化(I18N)經驗
 
 ## 個人作品
+
 本人目前積極參與下列專案的貢獻：
 
 * [Git Cola](http://git-cola.github.io): The highly caffeinated Git GUI  
@@ -39,6 +43,7 @@
 <https://github.com/brlin-tw?tab=repositories&type=source>
 
 ## 未來期望
+
 本人希望未來能夠在下列領域中習得更多技能：
 
 * DevOps(including but not limited to CI/CD and any kind of automation technologies)

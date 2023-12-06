@@ -1,11 +1,14 @@
 # Buo-ren, Lin's résumé
+
 English [中文（台灣）](https://brlin.me/resume/README.zh_TW.html)
 
 ## Basic Information
+
 * Studied at the Computer Science and Engineering department of NTOU
 * Currently lives in Taichung, Taiwan (relocation is possible)
 
 ## Experience Summary
+
 * Familiar with the GNU+Linux operating system, including but not limited to daily usage, system administration, software development, and command-line interface operations
 * Familiar with the Git source control management, including but not limited to the following operations:
     * `git add --patch`
@@ -23,6 +26,7 @@ English [中文（台灣）](https://brlin.me/resume/README.zh_TW.html)
 * Has experience in software localization(L10N) and GNU Gettext-based software internationalization(I18N)
 
 ## Personal Works
+
 I'm currently actively contributing to the following projects:
 
 * [Git Cola](http://git-cola.github.io): The highly caffeinated Git GUI  
@@ -39,6 +43,7 @@ Most of my other works are hosted on GitHub:
 <https://github.com/brlin-tw?tab=repositories&type=source>
 
 ## Future Interests
+
 The following are the fields that I have interest with, and expecting to be more acquainted in the future:
 
 * DevOps(including but not limited to CI/CD and any kind of automation technologies)
