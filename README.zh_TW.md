@@ -58,4 +58,4 @@
 <https://brlin.me/resume/README.zh_TW.html>  
 並且在不冒名使用的前提下以[Creative Commons 姓名標示 - 相同方式分享公眾授權條款](https://creativecommons.org/licenses/by/4.0/)第 4.0 版或其任意更近期版本釋出供大眾自由使用。
 
-參閱本履歷的[議題追蹤系統](https://github.com/brlin-tw/resume/issues)如果您對本履歷的內容或是使用方式有任何問題。
+如果您對本履歷的內容或是使用方式有任何問題請移駕本履歷的[議題追蹤系統](https://github.com/brlin-tw/resume/issues)進行討論。
