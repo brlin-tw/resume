@@ -2,12 +2,12 @@
 
 English [中文（台灣）](https://brlin.me/resume/README.zh_TW.html)
 
-## Basic Information
+## Basic information
 
 * Studied at the Computer Science and Engineering department of NTOU
 * Currently lives in Taipei, Taiwan
 
-## Experience Summary
+## Experience summary
 
 * Familiar with the GNU+Linux operating system, including but not limited to daily usage, system administration, software development, and command-line interface operations
 * Familiar with the Git source control management, including but not limited to the following operations:
@@ -25,7 +25,7 @@ English [中文（台灣）](https://brlin.me/resume/README.zh_TW.html)
 * Has a basic level of understanding of object-oriented programming paradigm
 * Has experience in software localization(L10N) and GNU Gettext-based software internationalization(I18N)
 
-## Personal Works
+## Personal works
 
 I'm currently actively contributing to the following projects:
 
@@ -42,7 +42,7 @@ I've been maintaining several snap packages based on personal needs and interest
 Most of my other works are hosted on GitHub:  
 <https://github.com/brlin-tw?tab=repositories&type=source>
 
-## Future Interests
+## Future interests
 
 The following are the fields that I have interest with, and expecting to be more acquainted in the future:
 
