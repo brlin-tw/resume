@@ -53,6 +53,7 @@ The following are the fields that I have interest with, and expecting to be more
 and any technologies that are based on free(as in freedom) software.
 
 ---
+
 The latest version of this résumé is located at the following address:  
 <https://brlin.me/resume>  
 and is licensed under the [Creative Commons Attribution-ShareAlike International Public License](https://creativecommons.org/licenses/by-sa/4.0), version 4.0 or any recent version of your preference with an exception of not impersonating anyone.
