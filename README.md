@@ -1,5 +1,5 @@
 # Buo-ren, Lin's résumé
-English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.html)
+English [中文（台灣）](https://brlin.me/resume/README.zh_TW.html)
 
 ## Basic Information
 * Studied at the Computer Science and Engineering department of NTOU
@@ -26,17 +26,17 @@ English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.h
 I'm currently actively contributing to the following projects:
 
 * [Git Cola](http://git-cola.github.io): The highly caffeinated Git GUI  
-  <https://github.com/git-cola/git-cola/commits?author=Lin-Buo-Ren>
+  <https://github.com/git-cola/git-cola/commits?author=brlin-tw>
 * [WoeUSB](https://github.com/slacka/WoeUSB): A tool that enables you to create your own windows installer USB key from an existing installation image  
-  <https://github.com/slacka/WoeUSB/commits?author=Lin-Buo-Ren>
+  <https://github.com/slacka/WoeUSB/commits?author=brlin-tw>
 * [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
 I've been maintaining several snap packages based on personal needs and interests:  
-<https://lin-buo-ren.github.io/my-snaps>
+<https://brlin.me/my-snaps>
 
 Most of my other works are hosted on GitHub:  
-<https://github.com/Lin-Buo-Ren?tab=repositories&type=source>
+<https://github.com/brlin-tw?tab=repositories&type=source>
 
 ## Future Interests
 The following are the fields that I have interest with, and expecting to be more acquainted in the future:
@@ -49,7 +49,7 @@ and any technologies that are based on free(as in freedom) software.
 
 ---
 The latest version of this résumé is located at the following address:  
-<https://lin-buo-ren.github.io/resume>  
+<https://brlin.me/resume>  
 and is licensed under the [Creative Commons Attribution-ShareAlike International Public License](https://creativecommons.org/licenses/by-sa/4.0), version 4.0 or any recent version of your preference with an exception of not impersonating anyone.
 
-Refer the [issue tracker](https://github.com/Lin-Buo-Ren/resume/issues) if you have any problems regarding the content or the usage of this résumé.
+Refer the [issue tracker](https://github.com/brlin-tw/resume/issues) if you have any problems regarding the content or the usage of this résumé.

@@ -1,5 +1,5 @@
 # 林博仁的履歷
-[English](https://lin-buo-ren.github.io/resume) 中文（台灣）
+[English](https://brlin.me/resume) 中文（台灣）
 
 ## 基本資料
 * 國立台灣海洋大學資訊工程學系肄業
@@ -26,9 +26,9 @@
 本人目前積極參與下列專案的貢獻：
 
 * [Git Cola](http://git-cola.github.io): The highly caffeinated Git GUI  
-  <https://github.com/git-cola/git-cola/commits?author=Lin-Buo-Ren>
+  <https://github.com/git-cola/git-cola/commits?author=brlin-tw>
 * [WoeUSB](https://github.com/slacka/WoeUSB): A tool that enables you to create your own windows installer USB key from an existing installation image  
-  <https://github.com/slacka/WoeUSB/commits?author=Lin-Buo-Ren>
+  <https://github.com/slacka/WoeUSB/commits?author=brlin-tw>
 * [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
@@ -36,7 +36,7 @@
 <https://lin-buo-ren.github.io/my-snaps>
 
 本人的大多數其他作品皆託管於 [GitHub](http://github.com)：  
-<https://github.com/Lin-Buo-Ren?tab=repositories&type=source>
+<https://github.com/brlin-tw?tab=repositories&type=source>
 
 ## 未來期望
 本人希望未來能夠在下列領域中習得更多技能：
@@ -49,6 +49,6 @@
 
 ---
 本履歷的最新版本位於下列網址：  
-<https://lin-buo-ren.github.io/resume>  
+<https://brlin.me/resume/README.zh_TW.html>  
 並且在不冒名使用的前提下以[Creative Commons 姓名標示 - 相同方式分享公眾授權條款](https://creativecommons.org/licenses/by/4.0/)第 4.0 版或其任意更近期版本釋出供大眾自由使用。
 
