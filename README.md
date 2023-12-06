@@ -1,4 +1,4 @@
-# Buo-ren, Lin's Résumé
+# Buo-ren, Lin's résumé
 English [中文（台灣）](https://lin-buo-ren.github.io/resume/README.zh_TW.html)
 
 ## Basic Information
