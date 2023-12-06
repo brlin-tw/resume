@@ -33,7 +33,7 @@
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
 此外我目前基於個人需求與興趣有維護數個Snap軟體：  
-<https://lin-buo-ren.github.io/my-snaps>
+<https://brlin-tw.github.io/my-snaps>
 
 本人的大多數其他作品皆託管於 [GitHub](http://github.com)：  
 <https://github.com/brlin-tw?tab=repositories&type=source>
