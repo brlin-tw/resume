@@ -11,9 +11,9 @@ English [中文（台灣）](https://brlin.me/resume/README.zh_TW.html)
 
 * Familiar with the GNU+Linux operating system, including but not limited to daily usage, system administration, software development, and command-line interface operations
 * Familiar with the Git source control management, including but not limited to the following operations:
-    * `git add --patch`
-    * `git rebase --interactive _base_`
-    * `git bisect [start|bad|good|...]`
+    + `git add --patch`
+    + `git rebase --interactive _base_`
+    + `git bisect [start|bad|good|...]`
 * Familiar with F.O.S.S. projects' development process and debugging procedures, including but not limited to triaging, stack trace generation, and bisection
 * Familiar with documentation in manpage and Texinfo formats
 * Familiar with snap packaging, [snaps are universal Linux packages](https://snapcraft.io)
