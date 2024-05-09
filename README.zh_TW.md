@@ -15,12 +15,12 @@
     + `git rebase --interactive _base_`
     + `git bisect [start|bad|good|...]`
 * 熟悉自由軟體專案的開發流程與除錯方式，包含但不限於議題分類(triaging)、stack trace 的產生以及程式缺陷引入版本的二元搜尋(bisection)
-* 具備 manpage 與 Texinfo 軟體文件的閱讀能力
+* 具備 manpage 使用手冊頁面與 Texinfo 軟體文件的閱讀能力
 * 熟悉 Snap 軟體打包，[Snap 為跨 GNU+Linux 系統的軟體散佈解決方案](https://snapcraft.io)
 * 具備 continuous integration(CI) 程式碼自動驗證與佈署的經驗
 * 具備 GNU Autotools 與 CMake 軟體建構系統的使用經驗，包含但不限於客製化軟體建構設定
 * 具備應用 LXD（主要）與 Docker（次要）之容器化技術於軟體開發與測試的經驗
-* 具備 GNU Bourne Again SHell(Bash) 腳本語言程式的設計能力
+* 具備 Bash 語言 Shell 腳本的設計能力
 * 熟悉 C 程式語言
 * 對物件導向程式設計有基礎的概念
 * 具備軟體在地化(L10N)與基於 GNU Gettext 程式庫的軟體國際化(I18N)經驗
