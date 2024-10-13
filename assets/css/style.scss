@@ -27,3 +27,11 @@ footer {
         display: none;
     }
 }
+
+// Disable language navigation hyperlink on current language */
+[aria-current="page"] {
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+    color: inherit;
+}
