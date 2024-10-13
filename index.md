@@ -1,6 +1,7 @@
 ---
 title: Résumé of Buo-ren Lin
 layout: default
+description: Provides necessary information for my potential employers' human resource assessment
 ---
 
 English [中文（台灣）]({{ "/index.zh_TW.html" | absolute_url }})

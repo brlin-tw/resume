@@ -1,6 +1,7 @@
 ---
 title: 林博仁的履歷
 layout: default
+description: 為潛在僱主的人力資源評估提供必要資訊
 ---
 
 [English]({{ "/" | absolute_url }}) 中文（台灣）
