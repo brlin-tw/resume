@@ -40,8 +40,9 @@ I'm currently actively contributing to the following projects:
 * [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
-Most of my other works are hosted on GitHub:  
-<https://github.com/brlin-tw?tab=repositories&type=source>
+Most of my other works are hosted on GitHub and GitLab:  
+<https://github.com/brlin-tw?tab=repositories&type=source>  
+<https://gitlab.com/users/brlin/projects>
 
 ## Future interests
 

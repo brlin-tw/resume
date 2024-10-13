@@ -40,8 +40,9 @@ description: 為潛在僱主的人力資源評估提供必要資訊
 * [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
-本人的大多數其他作品皆託管於 [GitHub](http://github.com)：  
-<https://github.com/brlin-tw?tab=repositories&type=source>
+本人的大多數其他作品皆託管於 [GitHub](http://github.com) 與 [GitLab](https://gitlab.com)：  
+<https://github.com/brlin-tw?tab=repositories&type=source>  
+<https://gitlab.com/users/brlin/projects>
 
 ## 未來期望
 
