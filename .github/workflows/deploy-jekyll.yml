@@ -52,7 +52,7 @@ jobs:
             --in-place \
             --regexp-extended \
             --expression='s@resume\.brlin\.me@brlin-tw.github.io@' \
-            --expression="s@^baseurl: ''@baseurl: '/resume'@' \
+            --expression="s@^baseurl: ''@baseurl: '/resume'@" \
             _config.yml
 
       - name: Build with Jekyll
