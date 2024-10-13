@@ -4,7 +4,9 @@ layout: default
 description: Provides necessary information for my potential employers' human resource assessment
 ---
 
-English [中文（台灣）]({{ "/index.zh_TW.html" | absolute_url }})
+<nav>
+    English <a href="{{ "/index.zh_TW.html" | absolute_url }}">中文（台灣）</a>
+</nav>
 
 ## Basic information
 

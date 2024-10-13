@@ -4,7 +4,9 @@ layout: default
 description: 為潛在僱主的人力資源評估提供必要資訊
 ---
 
-[English]({{ "/" | absolute_url }}) 中文（台灣）
+<nav>
+    <a href="{{ "/" | absolute_url }}">English</a> 中文（台灣）
+</nav>
 
 ## 基本資料
 

@@ -20,3 +20,10 @@
 footer {
     display: none;
 }
+
+// Don't show language navigation interface when printed */
+@media print {
+    nav {
+        display: none;
+    }
+}
