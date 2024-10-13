@@ -2,7 +2,6 @@
 title: 林博仁的履歷
 layout: default
 ---
-# 林博仁的履歷
 
 [English]({{ "/" | absolute_url }}) 中文（台灣）
 

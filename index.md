@@ -2,7 +2,6 @@
 title: Résumé of Buo-ren Lin
 layout: default
 ---
-# Résumé of Buo-ren Lin
 
 English [中文（台灣）]({{ "/index.zh_TW.html" | absolute_url }})
 
