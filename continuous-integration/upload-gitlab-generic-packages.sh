@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # Upload release packages as GitLab generic packages
 #
-# Copyright 2023 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
 set \
@@ -25,7 +25,7 @@ script_dir="$(CDPATH='' cd -- "$(dirname -- "$0")" && pwd)"
 project_dir="${script_dir%/*}"
 
 for file in "${project_dir}/${CI_PROJECT_NAME}-"*; do
-    if test "${file}" == "${project_dir}/${CI_PROJECT_NAME}-*"; then
+    if test "${file}" = "${project_dir}/${CI_PROJECT_NAME}-*"; then
         # No release packages are found, avoid missing file error
         break
     fi

@@ -1,61 +1,27 @@
-# Buo-ren, Lin's résumé
+# Résumé of Buo-ren Lin
 
-English [中文（台灣）](https://brlin.me/resume/README.zh_TW.html)
+Provides necessary information for my potential employers' human resource assessment.
 
-## Basic information
+<https://gitlab.com/brlin/resume>  
+[![The GitLab CI pipeline status badge of the project's `main` branch](https://gitlab.com/brlin/resume/badges/main/pipeline.svg?ignore_skipped=true "Click here to check out the comprehensive status of the GitLab CI pipelines")](https://gitlab.com/brlin/resume/-/pipelines) [![GitHub Actions workflow status badge](https://github.com/brlin-tw/brlin-tw.github.io/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status")](https://github.com/brlin-tw/brlin-tw.github.io/actions/workflows/check-potential-problems.yml) [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/gitlab.com/brlin/resume "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/gitlab.com/brlin/resume)
 
-* Studied at the Computer Science and Engineering department of NTOU
-* Currently lives in Taipei, Taiwan
+\#personal-website \#jekyll \#gitlab-pages \#github-pages
 
-## Experience summary
+## References
 
-* Familiar with the GNU+Linux operating system, including but not limited to daily usage, system administration, software development, and command-line interface operations
-* Familiar with the Git source control management, including but not limited to the following operations:
-    + `git add --patch`
-    + `git rebase --interactive _base_`
-    + `git bisect [start|bad|good|...]`
-* Familiar with F.O.S.S. projects' development process and debugging procedures, including but not limited to triaging, stack trace generation, and bisection
-* Familiar with documentation in manpage and Texinfo formats
-* Familiar with snap packaging, [snaps are universal Linux packages](https://snapcraft.io)
-* Has experience of continuous integration(CI) for automated code verification and deployment
-* Has experience with GNU Autotools and CMake software build systems, including but not limited to customizing build configuration
-* Has experience in using container technologies with LXD(major) and Docker(minor) in software development and testing
-* Has an intermediate level of understanding of the scripting language of the GNU Bourne Again SHell(Bash)
-* Has an intermediate level of understanding of the C programming language
-* Has a basic level of understanding of object-oriented programming paradigm
-* Has experience in software localization(L10N) and GNU Gettext-based software internationalization(I18N)
+The following material are referenced during the development of this project:
 
-## Personal works
+* [Configuration Options | Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/configuration/options/)  
+  Explains the configuration options of Jekyll.
+* [GitLab Pages | GitLab](https://docs.gitlab.com/ee/user/project/pages/index.html)  
+  Explains how to configure a GitLab Pages website.
+* [GitLab Pages custom domains | GitLab](https://docs.gitlab.com/ee/user/project/pages/custom_domains_ssl_tls_certification/#for-both-root-and-subdomains)  
+  Explains how to setup custom domains for a GitLab Pages site.
+* [Encryption modes | Cloudflare SSL/TLS docs](https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/)  
+  Explains how to make Cloudflare CDN service fetch resources from origin servers using HTTPS connection.
 
-I'm currently actively contributing to the following projects:
+## Licensing
 
-* [Git Cola](http://git-cola.github.io): The highly caffeinated Git GUI  
-  <https://github.com/git-cola/git-cola/commits?author=brlin-tw>
-* [WoeUSB](https://github.com/slacka/WoeUSB): A tool that enables you to create your own windows installer USB key from an existing installation image  
-  <https://github.com/slacka/WoeUSB/commits?author=brlin-tw>
-* [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
-  <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
+Unless otherwise noted(individual file's header/[REUSE.toml](REUSE.toml)), this product is licensed under [the 4.0 International version of the Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/), or any of its more recent versions of your preference.
 
-I've been maintaining several snap packages based on personal needs and interests:  
-<https://brlin.me/my-snaps>
-
-Most of my other works are hosted on GitHub:  
-<https://github.com/brlin-tw?tab=repositories&type=source>
-
-## Future interests
-
-The following are the fields that I have interest with, and expecting to be more acquainted in the future:
-
-* DevOps(including but not limited to CI/CD and any kind of automation technologies)
-* Embedded system development
-* Linux kernel development(including but not limited to, driver development)
-
-and any technologies that are based on free(as in freedom) software.
-
----
-
-The latest version of this résumé is located at the following address:  
-<https://brlin.me/resume>  
-and is licensed under the [Creative Commons Attribution-ShareAlike International Public License](https://creativecommons.org/licenses/by-sa/4.0), version 4.0 or any recent version of your preference with an exception of not impersonating anyone.
-
-Refer the [issue tracker](https://github.com/brlin-tw/resume/issues) if you have any problems regarding the content or the usage of this résumé.
+This work complies to [the REUSE Specification](https://reuse.software/spec/), refer the [REUSE - Make licensing easy for everyone](https://reuse.software/) website for info regarding the licensing of this product.

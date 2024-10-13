@@ -13,3 +13,8 @@
     margin: 24px 0;
     padding: 0;
 }
+
+/* Don't show site theme's footer, which hardcodes GitHub Pages */
+footer {
+    display: none;
+}

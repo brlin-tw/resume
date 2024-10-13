@@ -5,7 +5,7 @@
 # * `.gitlab-ci.yml` keyword reference | GitLab
 #   https://docs.gitlab.com/ee/ci/yaml/
 #
-# Copyright 2023 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 do-static-analysis:
   stage: test
@@ -64,3 +64,38 @@ create-release:
     - apk add bash git
     - ./continuous-integration/generate-release-description.sh
     - ./continuous-integration/create-gitlab-release.sh
+
+test-pages:
+  stage: test
+  rules:
+    - if: $CI_COMMIT_TAG == null
+  image: ruby:latest
+  variables:
+    LC_ALL: C.UTF-8
+  before_script:
+    - gem install bundler
+    - bundle install
+  script:
+    - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+      - test
+
+pages:
+  stage: deploy
+  image: ruby:latest
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+  needs:
+    - test-pages
+  variables:
+    JEKYLL_ENV: production
+    LC_ALL: C.UTF-8
+  before_script:
+    - gem install bundler
+    - bundle install
+  script:
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public

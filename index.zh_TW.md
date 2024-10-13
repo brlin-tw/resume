@@ -1,6 +1,10 @@
+---
+title: 林博仁的履歷
+layout: default
+---
 # 林博仁的履歷
 
-[English](https://brlin.me/resume) 中文（台灣）
+[English]({{ "/" | absolute_url }}) 中文（台灣）
 
 ## 基本資料
 
@@ -55,7 +59,7 @@
 ---
 
 本履歷的最新版本位於下列網址：  
-<https://brlin.me/resume/README.zh_TW.html>  
+<{{ "/index.zh_TW.html" | absolute_url }} >  
 並且在不冒名使用的前提下以[Creative Commons 姓名標示 - 相同方式分享公眾授權條款](https://creativecommons.org/licenses/by/4.0/)第 4.0 版或其任意更近期版本釋出供大眾自由使用。
 
-如果您對本履歷的內容或是使用方式有任何問題請移駕本履歷的[議題追蹤系統](https://github.com/brlin-tw/resume/issues)進行討論。
+如果您對本履歷的內容或是使用方式有任何問題請移駕本履歷的[議題追蹤系統](https://gitlab.com/brlin/resume/-/issues)進行討論。
