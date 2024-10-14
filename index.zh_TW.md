@@ -159,9 +159,9 @@ lang: zh-TW
 * DevOps(including but not limited to CI/CD and any kind of automation technologies)
 * Embedded system development
 * Linux kernel development(including but not limited to, driver development)
--->
 
 以及任何基於自由軟體的技術。
+-->
 
 ---
 
