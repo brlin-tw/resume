@@ -44,7 +44,7 @@ lang: en
     + Vagrant
     + VirtualBox
 * _Familiar_ with **snap packaging**, [snaps are universal Linux packages](https://snapcraft.io)
-* _Have experience in_ managing resources on the following cloud service platforms:
+* _Have experience in_ managing resources on the following **cloud service platforms**:
     + Aliyun
     + Amazon Web Services(AWS)
     + Cloudflare
@@ -60,7 +60,7 @@ lang: en
     + Virtual machine(**VM**) hosting
     + Domain name resolution(**DNS**)
 
-* _Have experience in_ the usage of the following project hosting platforms:
+* _Have experience in_ the usage of the following **project hosting platforms**:
     + GitHub
     + GitLab
     + Launchpad
@@ -93,7 +93,7 @@ lang: en
 
   and can apply minor changes to satisfy clients' needs
 * _Have basic level of understanding_ of the **object-oriented programming(OOP) paradigms**
-* _Have experience in_ designing the component diagrams using PlantUML
+* _Have experience in_ designing the component diagrams using **PlantUML**
 * _Have experience in_ **software localization(L10N)** and **software internationalization(I18N) solutions** based on GNU Gettext
 
 ### Language skills
@@ -120,12 +120,12 @@ lang: en
         - TLS/SSL certificate validity monitoring
     + Data backup and duplication(Cron/Tar/Rsync)
     + Security solutions(intrusion/malware detection)
-* Conducted investigation and provided insights on various **security incidents**
+* Conducted investigation and provided insights on various security incidents
 * Conducted code review on peers' work to ensure its security, quality, and robustness
 * Conducted preliminary research on foreign technologies, including but not limited to:
     + Artificial Intelligence(Baidu face recognition solution)
     + Project dependency vulnerability detection(OWASP Dependency-Check)
-* Implemented/maintained **core infrastructures** of the company, including but not limited to:
+* Implemented/maintained core infrastructures of the company, including but not limited to:
     + Project management, code hosting, Continuous Integration and Delivery(GitLab)
     + Remote access(WireGuard VPN/OpenVPN)
     + File sharing(WebDAV/Samba)

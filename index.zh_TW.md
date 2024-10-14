@@ -61,7 +61,7 @@ lang: zh-TW
     + 虛擬機(**VM**)託管
     + 域名解析(**DNS**)
 
-* _具備_ 下列 **專案託管平台**的使用經驗：
+* _具備_ 下列**專案託管平台**的使用經驗：
     + GitHub
     + GitLab
     + Launchpad
@@ -121,12 +121,12 @@ lang: zh-TW
         - TLS/SSL 證書效期監控
     + 資料備份與冗餘作業(Cron/Tar/Rsync)
     + 資訊安全防護（入侵偵測）
-* 執行各種**資訊安全事件**的調查並提供相關意見
+* 執行各種資訊安全事件的調查並提供相關意見
 * 執行同儕工作結果的程式碼審閱以確保其在安全、品質與強固性上無虞
 * 執行陌生技術的前期研究，包含但不限於：
     + 人工智慧技術（[百度人臉識別解決方案](https://cloud.baidu.com/doc/FACE/index.html)）
     + 專案依賴組件漏洞偵測（[OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/)）
-* 實作/維護包含但不限於下列公司的**核心基礎建設**：
+* 實作/維護包含但不限於下列公司的核心基礎建設：
     + 專案管理、程式碼託管、持續整合(CI)與交付(CD)(GitLab)
     + 遠端存取(WireGuard VPN/OpenVPN)
     + 檔案共享(WebDAV/Samba)
