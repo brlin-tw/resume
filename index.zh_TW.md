@@ -71,7 +71,7 @@ lang: zh-TW
     + <ruby>持續交付(<b>CD</b>)<rp>(</rp><rt>Continuous Delivery</rt><rp>)</rp></ruby>  
       自動建構與交付可以立刻應用的產品
     + <ruby>服務部署自動化<rp>(</rp><rt>Deployment automation</rt><rp>)</rp></ruby>  
-      透過即時通訊平台機器人實現服務的（半）自動化環境部署與回滾
+      透過即時通訊平台機器人實現服務的（半）自動化部署與回滾
 * _具備_ 下列 **DevOps 產品**的使用經驗：
     + Drone CI
     + GitHub Actions

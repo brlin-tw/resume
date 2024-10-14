@@ -70,7 +70,7 @@ lang: en
     + Continuous Delivery(**CD**)  
       For automated build and delivery of turnkey products
     + Deployment automation  
-      Implement (semi-)automated environment and service deployment and rollback via bots of instant messaging platforms
+      Implement (semi-)automated service deployment and rollback via bots of instant messaging platforms
 * _Have expereience in_ the using of the following **DevOps products**:
     + Drone CI
     + GitHub Actions
