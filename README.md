@@ -19,6 +19,18 @@ The following material are referenced during the development of this project:
   Explains how to setup custom domains for a GitLab Pages site.
 * [Encryption modes | Cloudflare SSL/TLS docs](https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/)  
   Explains how to make Cloudflare CDN service fetch resources from origin servers using HTTPS connection.
+* [@media print 你是誰？. 前陣子，在工作上碰到客戶要列印網頁的需求，想說大概… | by TSENG FU CHUN / 豆腐 | Medium](https://tsengbatty.medium.com/media-print-%E4%BD%A0%E6%98%AF%E8%AA%B0-ae093fab85b8)  
+  [Printing - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Printing)  
+  Explains how to apply styles to print media.
+* [How to List an Unfinished Degree on a Resume (With Examples)](https://resumegenius.com/blog/resume-help/unfinished-degree-on-resume)  
+  [How To Write a Resume with No Degree: Expert Tips & Examples](https://www.distinctiveweb.com/resume-writing/how-to-write-a-resume-with-no-degree/)  
+  Explains how to properly address education status of an unfinished degree ina resume.
+* [How To Keyword Optimize Your Resume to Get Top Results in ATS](https://www.distinctiveweb.com/resume-writing/resume-keywords-and-ats/)  
+  Explains how to tailor a resume to be Applicant Tracking Systems(ATS)-friendly.
+* [Deployment Automation: What is it & How to Start](https://www.atlassian.com/devops/frameworks/deployment-automation)  
+  Explains the concepts of deployment automation.
+* [How To Include Language Skills on Your Resume (With Examples) | Indeed.com](https://www.indeed.com/career-advice/resumes-cover-letters/resume-language-skills)  
+  Explains how to describe your language skills in a resume.
 
 ## Licensing
 
