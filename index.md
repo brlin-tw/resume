@@ -165,4 +165,4 @@ The latest version of this résumé is located at the following address:
 <{{ "/" | absolute_url }} >  
 and is licensed under the [Creative Commons Attribution-ShareAlike International Public License](https://creativecommons.org/licenses/by-sa/4.0), version 4.0 or any recent version of your preference with an exception of not impersonating anyone.
 
-Refer the [issue tracker](https://gitlab.com/brlin/resume/-/issues) if you have any problems regarding the content or the usage of this résumé.
+Refer to the [issue tracker](https://gitlab.com/brlin/resume/-/issues) if you have any problems regarding the content or the usage of this résumé.
