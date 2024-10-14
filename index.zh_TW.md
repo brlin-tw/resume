@@ -150,6 +150,7 @@ description: 為潛在僱主的人力資源評估提供必要資訊
 <https://github.com/brlin-tw?tab=repositories&type=source>  
 <https://gitlab.com/users/brlin/projects>
 
+<!--
 ## 未來期望
 
 本人希望未來能夠在下列領域中習得更多技能：
@@ -157,6 +158,7 @@ description: 為潛在僱主的人力資源評估提供必要資訊
 * DevOps(including but not limited to CI/CD and any kind of automation technologies)
 * Embedded system development
 * Linux kernel development(including but not limited to, driver development)
+-->
 
 以及任何基於自由軟體的技術。
 

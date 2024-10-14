@@ -149,6 +149,7 @@ Most of my other works are hosted on [GitHub](https://github.com) and [GitLab](h
 <https://github.com/brlin-tw?tab=repositories&type=source>  
 <https://gitlab.com/users/brlin/projects>
 
+<!--
 ## Future interests
 
 The following are the fields that I have interest with, and expecting to be more acquainted in the future:
@@ -158,6 +159,7 @@ The following are the fields that I have interest with, and expecting to be more
 * Linux kernel development(including but not limited to, driver development)
 
 and any technologies that are based on free(as in freedom) software.
+-->
 
 ---
 
