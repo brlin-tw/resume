@@ -31,6 +31,8 @@ The following material are referenced during the development of this project:
   Explains the concepts of deployment automation.
 * [How To Include Language Skills on Your Resume (With Examples) | Indeed.com](https://www.indeed.com/career-advice/resumes-cover-letters/resume-language-skills)  
   Explains how to describe your language skills in a resume.
+* [Work Experience on a Resume - How to List It Right](https://novoresume.com/career-blog/how-to-list-work-experience-on-a-resume)  
+  Explains how to describe your work experience in a resume.
 
 ## Licensing
 

@@ -104,6 +104,36 @@ description: Provides necessary information for my potential employers' human re
 
 ## Work experience
 
+### Operations engineer<br><small>SinoItan Technology, Co. Ltd.<br>2019~2023</small>
+
+* Responsible for the provisioning, deployment, and monitoring of the services of our clients, at the same time writing documentation to maintain project sustainability
+* Developed solutions to assist in the following areas:
+    + Build/quality assurance/delivery automations(GitLab CI)
+    + Service/configuration deployment(Ansible/Bash)
+    + Host/service/resource monitoring(Ansible/Bash/Dig/OpenSSL/Python/ZABBIX), including but not limited to:
+        - Domain name validity monitoring
+        - File monitoring
+        - Service/host availability monitoring(TCP/ICMP/IMAP)
+        - Malicious process monitoring
+        - Service availability monitoring(with implementations tailored toward clients' business logic)
+        - TLS/SSL certificate validity monitoring
+    + Data backup and duplication(Cron/Tar/Rsync)
+    + Security solutions(intrusion/malware detection)
+* Conducted investigation and provided insights on various **security incidents**
+* Conducted code review on peers' work to ensure its security, quality, and robustness
+* Conducted preliminary research on foreign technologies, including but not limited to:
+    + Artificial Intelligence(Baidu face recognition solution)
+    + Project dependency vulnerability detection(OWASP Dependency-Check)
+* Implemented/maintained **core infrastructures** of the company, including but not limited to:
+    + Project management, code hosting, Continuous Integration and Delivery(GitLab)
+    + Remote access(WireGuard VPN/OpenVPN)
+    + File sharing(WebDAV/Samba)
+    + Internal networking(DHCP/DNS/Wireless)
+    + System virtualization for testing and production environments(Proxmox VE)
+* Assisted in several administrative works, including but not limited to:
+    + Education and training
+    + Interview of personnel in the engineering department
+
 ## Personal works
 
 I'm currently actively contributing to the following projects:

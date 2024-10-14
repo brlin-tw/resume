@@ -103,6 +103,38 @@ description: 為潛在僱主的人力資源評估提供必要資訊
     + 讀寫：熟練
     + 口說：中等
 
+## 工作經歷
+
+### 維運工程師<br><small>中信安科技<br>2019~2023</small>
+
+* 負責開通、部署與監控客戶服務，並同時撰寫文件以維護專案的永續性
+* 開發輔助下列領域的解決方案：
+    + 產品建構、品質控管、交付之自動化(Drone CI/GitLab CI)
+    + 服務與配置的自動化部署(Ansible/Bash)
+    + 包含但不限於下列項目之主機、服務、資源的自動化監控(Ansible/Bash/Dig/OpenSSL/Python/ZABBIX)：
+        - 域名效期監控
+        - 檔案異動監控
+        - 服務/主機可用性監控(HTTP/TCP/ICMP/IMAP)
+        - 惡意<ruby>進程<rp>(</rp><rt>process</rt><rp>)</rp></ruby>監控
+        - 服務可用性監控（包含根據客戶業務邏輯客製的實作）
+        - TLS/SSL 證書效期監控
+    + 資料備份與冗餘作業(Cron/Tar/Rsync)
+    + 資訊安全防護（入侵偵測）
+* 執行各種**資訊安全事件**的調查並提供相關意見
+* 執行同儕工作結果的程式碼審閱以確保其在安全、品質與強固性上無虞
+* 執行陌生技術的前期研究，包含但不限於：
+    + 人工智慧技術（[百度人臉識別解決方案](https://cloud.baidu.com/doc/FACE/index.html)）
+    + 專案依賴組件漏洞偵測（[OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/)）
+* 實作/維護包含但不限於下列公司的**核心基礎建設**：
+    + 專案管理、程式碼託管、持續整合(CI)與交付(CD)(GitLab)
+    + 遠端存取(WireGuard VPN/OpenVPN)
+    + 檔案共享(WebDAV/Samba)
+    + 內部網路(DHCP/DNS/Wireless)
+    + 用於創建測試與生產環境的虛擬化服務(Proxmox VE)
+* 輔助包含但不限於下列之行政事務：
+    + 新進同仁的教育訓練
+    + 工程部應徵人員的面試
+
 ## 個人作品
 
 本人目前積極參與下列專案的貢獻：
