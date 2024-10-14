@@ -95,7 +95,7 @@ description: Provides necessary information for my potential employers' human re
 * _Have experience in_ designing the component diagrams using PlantUML
 * _Have experience in_ **software localization(L10N)** and **software internationalization(I18N) solutions** based on GNU Gettext
 
-## Language skills
+### Language skills
 
 * English:
     + Read and write: Proficient
