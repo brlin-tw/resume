@@ -16,21 +16,73 @@ description: Provides necessary information for my potential employers' human re
 
 ## Experience summary
 
-* Familiar with the GNU+Linux operating system, including but not limited to daily usage, system administration, software development, and command-line interface operations
-* Familiar with the Git source control management, including but not limited to the following operations:
-    + `git add --patch`
-    + `git rebase --interactive _base_`
-    + `git bisect [start|bad|good|...]`
-* Familiar with F.O.S.S. projects' development process and debugging procedures, including but not limited to triaging, stack trace generation, and bisection
-* Familiar with documentation in manpage and Texinfo formats
-* Familiar with snap packaging, [snaps are universal Linux packages](https://snapcraft.io)
-* Has experience of continuous integration(CI) for automated code verification and deployment
-* Has experience with GNU Autotools and CMake software build systems, including but not limited to customizing build configuration
-* Has experience in using container technologies with LXD(major) and Docker(minor) in software development and testing
-* Has an intermediate level of understanding of the scripting language of the GNU Bourne Again SHell(Bash)
-* Has an intermediate level of understanding of the C programming language
-* Has a basic level of understanding of object-oriented programming paradigm
-* Has experience in software localization(L10N) and GNU Gettext-based software internationalization(I18N)
+### Information technologies
+
+* _Familiar with_ the usage of RedHat/Debian-based **Linux** OS distributions, including but not limited to the following operations:
+    + Daily usage(desktop/command-line interface)
+    + System administration(software management/storage management/network configuration)
+    + Software development
+    + Troubleshooting
+* _Familiar with_ **Git version control system**, including but not limited to the following operations:
+    + Partial change staging  
+      `git add --patch`
+    + Branch rebase  
+      `git rebase --interactive _base_`
+    + Bisecting a regression  
+      `git bisect [start|bad|good|...]`
+* _Familiar with_ **F.O.S.S. projects' development process and debugging procedures**, including but not limited to:
+    + Minimal bug reproducer implementation
+    + Full stack trace generation
+    + Bug/issue triaging
+* _Familiar with_ **Bash**/POSIX shell script development
+* _Familiar with_ **Ansible** automation technologies, for consistent and flexible service deployment/configuration
+* _Familiar with_ documentation in **manpage** and **Texinfo** formats
+* _Familiar with_ the following **virtualization solutions** for building development, testing, and runtime environments:
+    + Docker/Docker Compose
+    + LXD/LXC
+    + Vagrant
+    + VirtualBox
+* _Familiar_ with **snap packaging**, [snaps are universal Linux packages](https://snapcraft.io)
+* _Have experience in_ the usage of the following project hosting platforms:
+    + GitHub
+    + GitLab
+    + Launchpad
+* _Have experience in_ the building of the following **DevOps infrastructure**:
+    + Continuous Integration(CI)  
+      For automated project content quality assurance
+    + Continuous Delivery(CD)  
+      For automated build and delivery of turnkey products
+    + Deployment automation  
+      Implement (semi-)automated environment and service deployment and rollback via bots of instant messaging platforms
+* _Have expereience in_ the using of the following **DevOps products**:
+    + Drone CI
+    + GitHub Actions
+    + GitLab CI
+    + Travis CI
+* _Have experience in_ the usage of the following **software build systems**:
+    + GNU Autotools
+    + CMake
+    + Meson
+* _Have basic level of understanding_ of the following **programming languages**:
+
+    + C
+    + C++
+    + Java
+    + PHP
+    + Ruby
+
+  and can apply minor changes to satisfy client needs
+* _Have basic level of understanding_ of the **object-oriented programming(OOP) paradigms**
+* _Have experience in_ **software localization(L10N)** and **software internationalization(I18N) solutions** based on GNU Gettext
+
+## Language skills
+
+* English:
+    + Read and write: Proficient
+    + Conversation: Intermediate
+* Taiwanese Chinese: Native
+
+## Work experience
 
 ## Personal works
 

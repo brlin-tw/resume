@@ -16,21 +16,70 @@ description: 為潛在僱主的人力資源評估提供必要資訊
 
 ## 經驗概敘
 
-* 熟悉 GNU+Linux 作業系統包含但不限於日常使用、系統管理、軟體開發以及命令列界面程式的操作
-* 熟悉使用 Git 版本控制系統，包含但不限於以下操作：
-    + `git add --patch`
-    + `git rebase --interactive _base_`
-    + `git bisect [start|bad|good|...]`
-* 熟悉自由軟體專案的開發流程與除錯方式，包含但不限於議題分類(triaging)、stack trace 的產生以及程式缺陷引入版本的二元搜尋(bisection)
-* 具備 manpage 使用手冊頁面與 Texinfo 軟體文件的閱讀能力
-* 熟悉 Snap 軟體打包，[Snap 為跨 GNU+Linux 系統的軟體散佈解決方案](https://snapcraft.io)
-* 具備 continuous integration(CI) 程式碼自動驗證與佈署的經驗
-* 具備 GNU Autotools 與 CMake 軟體建構系統的使用經驗，包含但不限於客製化軟體建構設定
-* 具備應用 LXD（主要）與 Docker（次要）之容器化技術於軟體開發與測試的經驗
-* 具備 Bash 語言 Shell 腳本的設計能力
-* 熟悉 C 程式語言
-* 對物件導向程式設計有基礎的概念
-* 具備軟體在地化(L10N)與基於 GNU Gettext 程式庫的軟體國際化(I18N)經驗
+### 資訊科技
+
+* _熟悉_ 基於 RedHat/Debian 之 **Linux 作業系統**的使用經驗，包含但不限於下列操作：
+    + 日常使用（桌面、命令列界面）
+    + 系統管理（軟體管理、儲存管理、網路設定）
+    + 軟體開發
+    + 問題排除
+* _熟悉_ 使用 **Git 版本控制系統**，包含但不限於以下操作：
+    + 部份文件變更提交  
+      `git add --patch`
+    + 分支變更基底  
+      `git rebase --interactive _base_`
+    + Regression 引入版本二元搜尋  
+      `git bisect [start|bad|good|...]`
+* _熟悉_ 自由與開放來源碼軟體(FOSS)的**開發流程**與**除錯方式**，包含但不限於：
+    + 最小化問題重現步驟實作
+    + 完整<ruby>呼叫追蹤<rp>(</rp><rt>call trace</rt></ruby>的產生
+    + 軟體缺陷報告/議題分類(triaging)
+* _熟悉_ **Bash**/POSIX <ruby>shell 腳本<rp>(</rp><rt>shell script</rt><rp>)</rp></ruby>設計
+* _熟悉_ **Ansible** 自動化技術以部署配置一致且有彈性的服務
+* _熟悉_ **manpage** 與 **Texinfo** 軟體文件的閱讀能力
+* _熟悉_ 下列用於建置軟體開發、測試與執行時期環境的**虛擬化技術解決方案**：
+    + Docker/Docker Compose
+    + LXD/LXC
+    + Vagrant
+    + VirtualBox
+* _熟悉_ **Snap 軟體打包**，[Snap 為跨 Linux 散布版的軟體散佈解決方案](https://snapcraft.io)
+* _具備_ 下列 **專案託管平台**的使用經驗：
+    + GitHub
+    + GitLab
+    + Launchpad
+* _具備_ 下列 **DevOps 架構**的建置經驗：
+    + <ruby>持續整合(CI)<rp>(</rp><rt>Continuous Integration</rt><rp>)</rp></ruby>  
+      用於專案內容的自動化品質管控
+    + <ruby>持續交付(CD)<rp>(</rp><rt>Continuous Delivery</rt><rp>)</rp></ruby>  
+      自動建構與交付可以立刻應用的產品
+    + <ruby>服務部署自動化<rp>(</rp><rt>Deployment automation</rt><rp>)</rp></ruby>  
+      透過即時通訊平台機器人實現服務的（半）自動化環境部署與回滾
+* _具備_ 下列 **DevOps 產品**的使用經驗：
+    + Drone CI
+    + GitHub Actions
+    + GitLab CI
+    + Travis CI
+* _具備_ 包含但不限於下列之**軟體建構系統**的使用經驗：
+    + GNU Autotools
+    + CMake
+    + Meson
+* _具備_ 對下列**程式語言** _基礎程度_ 之理解：
+    + C
+    + C++
+    + Java
+    + PHP
+    + Ruby
+
+  並可對程式進行小規模的修改以滿足客戶的需求
+* _具備_ 對**物件導向程式設計(OOP)** _基礎程度_ 之理解
+* _具備_ **軟體在地化(L10N)**與基於 GNU Gettext 程式庫之**軟體國際化(I18N)解決方案**使用經驗
+
+### 語言能力
+
+* 漢語
+* 英語
+    + 讀寫：熟練
+    + 口說：中等
 
 ## 個人作品
 
