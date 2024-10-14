@@ -43,6 +43,23 @@ description: 為潛在僱主的人力資源評估提供必要資訊
     + Vagrant
     + VirtualBox
 * _熟悉_ **Snap 軟體打包**，[Snap 為跨 Linux 散布版的軟體散佈解決方案](https://snapcraft.io)
+* _具備_ 下列 **雲服務平台**的資源管理經驗：
+
+    + 阿里雲
+    + Amazon Web Services(AWS)
+    + Cloudflare
+    + 中華電信 hicloud
+    + Google Cloud Platform(GCP)
+    + 騰訊雲
+
+  主要集中於下列的解決方案：
+
+    + 內容傳遞網路(**CDN**)
+    + 負載平衡(**LB**)
+    + 類 **S3** 物件儲存系統
+    + 虛擬機(**VM**)託管
+    + 域名解析(**DNS**)
+
 * _具備_ 下列 **專案託管平台**的使用經驗：
     + GitHub
     + GitLab
@@ -59,11 +76,15 @@ description: 為潛在僱主的人力資源評估提供必要資訊
     + GitHub Actions
     + GitLab CI
     + Travis CI
-* _具備_ 包含但不限於下列之**軟體建構系統**的使用經驗：
+* _具備_ 包含但不限於下列之**軟體建構系統**的使用與配置經驗：
+
     + GNU Autotools
     + CMake
     + Meson
+
+  以建構符合客戶需求的產品
 * _具備_ 對下列**程式語言** _基礎程度_ 之理解：
+
     + C
     + C++
     + Java
@@ -72,6 +93,7 @@ description: 為潛在僱主的人力資源評估提供必要資訊
 
   並可對程式進行小規模的修改以滿足客戶的需求
 * _具備_ 對**物件導向程式設計(OOP)** _基礎程度_ 之理解
+* _具備_ 使用 PlantUML 繪製<ruby>組件圖<rp>(</rp><rt>component diagram</rt><rp>)</rp></ruby>的經驗：
 * _具備_ **軟體在地化(L10N)**與基於 GNU Gettext 程式庫之**軟體國際化(I18N)解決方案**使用經驗
 
 ### 語言能力

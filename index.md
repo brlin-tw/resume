@@ -43,6 +43,22 @@ description: Provides necessary information for my potential employers' human re
     + Vagrant
     + VirtualBox
 * _Familiar_ with **snap packaging**, [snaps are universal Linux packages](https://snapcraft.io)
+* _Have experience in_ managing resources on the following cloud service platforms:
+    + Aliyun
+    + Amazon Web Services(AWS)
+    + Cloudflare
+    + CHT hicloud
+    + Google Cloud Platform(GCP)
+    + Tencent Cloud
+
+  with focus on the following solutions:
+
+    + Content Delivery Network(**CDN**)
+    + Load balancing(**LB**)
+    + **S3**-like object storage
+    + Virtual machine(**VM**) hosting
+    + Domain name resolution(**DNS**)
+
 * _Have experience in_ the usage of the following project hosting platforms:
     + GitHub
     + GitLab
@@ -59,10 +75,13 @@ description: Provides necessary information for my potential employers' human re
     + GitHub Actions
     + GitLab CI
     + Travis CI
-* _Have experience in_ the usage of the following **software build systems**:
+* _Have experience in_ the usage and configuration of the following **software build systems**:
+
     + GNU Autotools
     + CMake
     + Meson
+
+  to build products that suit clients' needs
 * _Have basic level of understanding_ of the following **programming languages**:
 
     + C
@@ -71,8 +90,9 @@ description: Provides necessary information for my potential employers' human re
     + PHP
     + Ruby
 
-  and can apply minor changes to satisfy client needs
+  and can apply minor changes to satisfy clients' needs
 * _Have basic level of understanding_ of the **object-oriented programming(OOP) paradigms**
+* _Have experience in_ designing the component diagrams using PlantUML
 * _Have experience in_ **software localization(L10N)** and **software internationalization(I18N) solutions** based on GNU Gettext
 
 ## Language skills
