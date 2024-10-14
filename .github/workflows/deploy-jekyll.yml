@@ -46,14 +46,35 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Patch site URL
+      - name: Patch site information
         run: |-
-          sed \
-            --in-place \
-            --regexp-extended \
-            --expression='s@resume\.brlin\.me@brlin-tw.github.io@' \
-            --expression="s@^baseurl: ''@baseurl: '/resume'@" \
-            _config.yml
+          sed_common_opts=(
+            --in-place
+            --regexp-extended
+          )
+          sed_opts=(
+            "${sed_common_opts[@]}"
+            --expression='s@resume\.brlin\.me@brlin-tw.github.io@'
+            --expression="s@^baseurl: ''@baseurl: '/resume'@"
+          )
+          if ! sed "${sed_opts[@]}" _config.yml; then
+            printf \
+              'Error: Unable to patch the Jekyll configuration file.\n' \
+              1>&2
+            exit 2
+          fi
+
+          sed_opts=(
+            "${sed_common_opts[@]}"
+            --expression='s@https://docs\.gitlab\.com/ee/user/project/pages/@https://pages.github.com/@'
+            --expression='s@GitLab Pages@GitHub Pages@'
+          )
+          if ! sed "${sed_opts[@]}" _includes/footer-custom.*.html; then
+            printf \
+              'Error: Unable to patch the page footer.\n' \
+              1>&2
+            exit 2
+          fi
 
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
