@@ -94,7 +94,7 @@ lang: zh-TW
 
   並可對程式進行小規模的修改以滿足客戶的需求
 * _具備_ 對**物件導向程式設計(OOP)** _基礎程度_ 之理解
-* _具備_ 使用 PlantUML 繪製<ruby>組件圖<rp>(</rp><rt>component diagram</rt><rp>)</rp></ruby>的經驗：
+* _具備_ 使用 **PlantUML** 繪製<ruby>組件圖<rp>(</rp><rt>component diagram</rt><rp>)</rp></ruby>的經驗：
 * _具備_ **軟體在地化(L10N)**與基於 GNU Gettext 程式庫之**軟體國際化(I18N)解決方案**使用經驗
 
 ### 語言能力
