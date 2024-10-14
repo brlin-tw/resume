@@ -66,9 +66,9 @@ lang: zh-TW
     + GitLab
     + Launchpad
 * _具備_ 下列 **DevOps 架構**的建置經驗：
-    + <ruby>持續整合(CI)<rp>(</rp><rt>Continuous Integration</rt><rp>)</rp></ruby>  
+    + <ruby>持續整合(<b>CI</b>)<rp>(</rp><rt>Continuous Integration</rt><rp>)</rp></ruby>  
       用於專案內容的自動化品質管控
-    + <ruby>持續交付(CD)<rp>(</rp><rt>Continuous Delivery</rt><rp>)</rp></ruby>  
+    + <ruby>持續交付(<b>CD</b>)<rp>(</rp><rt>Continuous Delivery</rt><rp>)</rp></ruby>  
       自動建構與交付可以立刻應用的產品
     + <ruby>服務部署自動化<rp>(</rp><rt>Deployment automation</rt><rp>)</rp></ruby>  
       透過即時通訊平台機器人實現服務的（半）自動化環境部署與回滾

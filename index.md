@@ -65,9 +65,9 @@ lang: en
     + GitLab
     + Launchpad
 * _Have experience in_ the building of the following **DevOps infrastructure**:
-    + Continuous Integration(CI)  
+    + Continuous Integration(**CI**)  
       For automated project content quality assurance
-    + Continuous Delivery(CD)  
+    + Continuous Delivery(**CD**)  
       For automated build and delivery of turnkey products
     + Deployment automation  
       Implement (semi-)automated environment and service deployment and rollback via bots of instant messaging platforms
