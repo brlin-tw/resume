@@ -6,24 +6,14 @@
 // SPDX-License-Identifier: CC-BY-SA-4.0+
 @import "{{ site.theme }}";
 
-// Fix unvisible horizontal lines
-.main-content hr {
-    display: block;
-    height: .25em;
-    border: 0;
-    background-color: #e1e4e8;
-    margin: 24px 0;
-    padding: 0;
-}
-
-/* Don't show site theme's footer, which hardcodes GitHub Pages */
-footer {
-    display: none;
-}
-
-// Don't show language navigation interface when printed */
 @media print {
+    // Don't show language navigation interface when printed */
     nav {
+        display: none;
+    }
+
+    // Don't show site footer when printed */
+    footer {
         display: none;
     }
 }
