@@ -141,8 +141,8 @@ I'm currently actively contributing to the following projects:
 
 * [Git Cola](http://git-cola.github.io): The highly caffeinated Git GUI  
   <https://github.com/git-cola/git-cola/commits?author=brlin-tw>
-* [WoeUSB](https://github.com/slacka/WoeUSB): A tool that enables you to create your own windows installer USB key from an existing installation image  
-  <https://github.com/slacka/WoeUSB/commits?author=brlin-tw>
+* [WoeUSB](https://github.com/WoeUSB/WoeUSB): A tool that enables you to create your own windows installer USB key from an existing installation image  
+  <https://github.com/WoeUSB/WoeUSB/commits?author=brlin-tw>
 * [The Snapcrafters](https://forum.snapcraft.io/t/join-snapcrafters/1325): A group of community contributors working to get snaps published by upstream projects  
   <https://forum.snapcraft.io/u/Lin-Buo-Ren/activity>
 
