@@ -33,7 +33,7 @@ lang: zh-TW
       `git bisect [start|bad|good|...]`
 * _熟悉_ 自由與開放來源碼軟體(FOSS)的**開發流程**與**除錯方式**，包含但不限於：
     + 最小化問題重現步驟實作
-    + 完整<ruby>呼叫追蹤<rp>(</rp><rt>call trace</rt></ruby>的產生
+    + 完整<ruby>呼叫追蹤<rp>(</rp><rt>call trace</rt><rp>)</rp></ruby>的產生
     + 軟體缺陷報告/議題分類(triaging)
 * _熟悉_ **Bash**/POSIX <ruby>shell 腳本<rp>(</rp><rt>shell script</rt><rp>)</rp></ruby>設計
 * _熟悉_ **Ansible** 自動化技術以部署配置一致且有彈性的服務
