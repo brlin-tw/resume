@@ -2,6 +2,7 @@
 title: Résumé of Buo-ren Lin
 layout: default
 description: Provides necessary information for my potential employers' human resource assessment
+lang: en
 ---
 
 {% include navigation.html %}
