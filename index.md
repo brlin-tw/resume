@@ -8,7 +8,10 @@ description: Provides necessary information for my potential employers' human re
 
 ## Basic information
 
-* Studied at the Computer Science and Engineering department of NTOU
+* Coursework toward Bachelor of Computer Science and Engineering at National Taiwan Ocean University, Taiwan(2010-2018), with accomplishments in the following domains:
+    + Programming languages
+    + Operating systems
+    + Embedded systems
 * Currently lives in Taipei, Taiwan
 
 ## Experience summary
