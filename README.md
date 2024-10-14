@@ -24,7 +24,7 @@ The following material are referenced during the development of this project:
   Explains how to apply styles to print media.
 * [How to List an Unfinished Degree on a Resume (With Examples)](https://resumegenius.com/blog/resume-help/unfinished-degree-on-resume)  
   [How To Write a Resume with No Degree: Expert Tips & Examples](https://www.distinctiveweb.com/resume-writing/how-to-write-a-resume-with-no-degree/)  
-  Explains how to properly address education status of an unfinished degree ina resume.
+  Explains how to properly address education status of an unfinished degree in a resume.
 * [How To Keyword Optimize Your Resume to Get Top Results in ATS](https://www.distinctiveweb.com/resume-writing/resume-keywords-and-ats/)  
   Explains how to tailor a resume to be Applicant Tracking Systems(ATS)-friendly.
 * [Deployment Automation: What is it & How to Start](https://www.atlassian.com/devops/frameworks/deployment-automation)  
