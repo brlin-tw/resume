@@ -58,6 +58,6 @@ description: 為潛在僱主的人力資源評估提供必要資訊
 
 本履歷的最新版本位於下列網址：  
 <{{ "/index.zh_TW.html" | absolute_url }} >  
-並且在不冒名使用的前提下以[Creative Commons 姓名標示 - 相同方式分享公眾授權條款](https://creativecommons.org/licenses/by/4.0/)第 4.0 版或其任意更近期版本釋出供大眾自由使用。
+並且在不冒名使用的前提下以 [Creative Commons 姓名標示 - 相同方式分享公眾授權條款](https://creativecommons.org/licenses/by/4.0/)第 4.0 版或其任意更近期版本釋出供大眾自由使用。
 
 如果您對本履歷的內容或是使用方式有任何問題請移駕本履歷的[議題追蹤系統](https://gitlab.com/brlin/resume/-/issues)進行討論。
