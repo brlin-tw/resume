@@ -48,7 +48,6 @@ lang: en
     + Aliyun
     + Amazon Web Services(AWS)
     + Cloudflare
-    + CHT hicloud
     + Google Cloud Platform(GCP)
     + Tencent Cloud
 
@@ -95,6 +94,7 @@ lang: en
 * _Have basic level of understanding_ of the **object-oriented programming(OOP) paradigms**
 * _Have experience in_ designing the component diagrams using **PlantUML**
 * _Have experience in_ **software localization(L10N)** and **software internationalization(I18N) solutions** based on GNU Gettext
+* _Have experience in_ interacting with **Web APIs**.
 
 ### Language skills
 

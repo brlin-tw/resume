@@ -49,7 +49,6 @@ lang: zh-TW
     + 阿里雲
     + Amazon Web Services(AWS)
     + Cloudflare
-    + 中華電信 hicloud
     + Google Cloud Platform(GCP)
     + 騰訊雲
 
@@ -96,6 +95,7 @@ lang: zh-TW
 * _具備_ 對**物件導向程式設計(OOP)** _基礎程度_ 之理解
 * _具備_ 使用 **PlantUML** 繪製<ruby>組件圖<rp>(</rp><rt>component diagram</rt><rp>)</rp></ruby>的經驗：
 * _具備_ **軟體在地化(L10N)**與基於 GNU Gettext 程式庫之**軟體國際化(I18N)解決方案**使用經驗
+* _具備_ **Web API** 的操作經驗
 
 ### 語言能力
 
